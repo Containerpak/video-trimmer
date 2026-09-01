@@ -37,6 +37,10 @@
     "notification": true,
     "openURI": true,
     "hostApplications": false,
+    "filePicker": {
+      "openFile": true,
+      "saveFile": true
+    },
     "filesystem": [
       {
         "path": "home",
