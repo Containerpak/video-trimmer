@@ -4,7 +4,7 @@
   "name": "Video Trimmer",
   "description": "Cut videos without re-encoding and export the selected fragment.",
   "version": "26.03.1",
-  "image": "ghcr.io/containerpak/video-trimmer@sha256:94d16084d3da43e0a7c58ee31f6e6657e98d4d764392210d86cd17250f484433",
+  "image": "ghcr.io/containerpak/video-trimmer@sha256:626e6cf32874d354bb38f339aef2289f990169952bd2f8fa13a4a3ed474c0fc0",
   "binaries": [
     "/usr/bin/video-trimmer"
   ],
